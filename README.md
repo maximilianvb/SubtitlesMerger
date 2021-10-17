@@ -1,5 +1,5 @@
 # SubtitlesMerger
-Re-render a movie with subtitles from file with auto-correcting delay
+Re-render a movie with subtitles from a .srt file with auto-correcting delay
 
 Small script I made for myself. I needed a way to get subtitles in movies through the built-in Windows cast function. 
 My solution has been to re-render the video file with Moviepy and running some tests to determine the delay in the starting of the subtitles. 
